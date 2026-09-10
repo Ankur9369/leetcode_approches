@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankur9369/leetcode_approches/tree/master/0011-container-with-most-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ankur9369/leetcode_approches/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Ankur9369/leetcode_approches/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ankur9369/leetcode_approches/tree/master/0739-daily-temperatures) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankur9369/leetcode_approches/tree/master/3875-construct-uniform-parity-array-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Ankur9369/leetcode_approches/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ankur9369/leetcode_approches/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Ankur9369/leetcode_approches/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Ankur9369/leetcode_approches/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ankur9369/leetcode_approches/tree/master/0739-daily-temperatures) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ankur9369/leetcode_approches/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankur9369/leetcode_approches/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ankur9369/leetcode_approches/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
