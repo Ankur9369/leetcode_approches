@@ -59,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankur9369/leetcode_approches/tree/master/0084-largest-rectangle-in-histogram) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/Ankur9369/leetcode_approches/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
