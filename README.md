@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Ankur9369/leetcode_approches/tree/master/0071-simplify-path) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankur9369/leetcode_approches/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Ankur9369/leetcode_approches/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Ankur9369/leetcode_approches/tree/master/0402-remove-k-digits) |
 ## Stack
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankur9369/leetcode_approches/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Ankur9369/leetcode_approches/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/Ankur9369/leetcode_approches/tree/master/0596-classes-with-at-least-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/Ankur9369/leetcode_approches/tree/master/0601-human-traffic-of-stadium) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankur9369/leetcode_approches/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankur9369/leetcode_approches/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
