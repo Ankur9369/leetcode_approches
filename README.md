@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankur9369/leetcode_approches/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/Ankur9369/leetcode_approches/tree/master/0402-remove-k-digits) |
 ## String
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Ankur9369/leetcode_approches/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/Ankur9369/leetcode_approches/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Ankur9369/leetcode_approches/tree/master/0402-remove-k-digits) |
 ## Stack
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankur9369/leetcode_approches/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankur9369/leetcode_approches/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Ankur9369/leetcode_approches/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Ankur9369/leetcode_approches/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Ankur9369/leetcode_approches/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ankur9369/leetcode_approches/tree/master/0739-daily-temperatures) |
 ## Recursion
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankur9369/leetcode_approches/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/Ankur9369/leetcode_approches/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Ankur9369/leetcode_approches/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ankur9369/leetcode_approches/tree/master/0739-daily-temperatures) |
 ## Range Minimum/Maximum Query
