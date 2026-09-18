@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankur9369/leetcode_approches/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankur9369/leetcode_approches/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Ankur9369/leetcode_approches/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ankur9369/leetcode_approches/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Ankur9369/leetcode_approches/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ankur9369/leetcode_approches/tree/master/0739-daily-temperatures) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankur9369/leetcode_approches/tree/master/3875-construct-uniform-parity-array-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ankur9369/leetcode_approches/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ankur9369/leetcode_approches/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/Ankur9369/leetcode_approches/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankur9369/leetcode_approches/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Ankur9369/leetcode_approches/tree/master/0496-next-greater-element-i) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ankur9369/leetcode_approches/tree/master/0217-contains-duplicate) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Ankur9369/leetcode_approches/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
