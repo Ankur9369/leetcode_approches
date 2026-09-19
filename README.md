@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Ankur9369/leetcode_approches/tree/master/0071-simplify-path) |
+| [0205-isomorphic-strings](https://github.com/Ankur9369/leetcode_approches/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Ankur9369/leetcode_approches/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankur9369/leetcode_approches/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Ankur9369/leetcode_approches/tree/master/0394-decode-string) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Ankur9369/leetcode_approches/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ankur9369/leetcode_approches/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankur9369/leetcode_approches/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/Ankur9369/leetcode_approches/tree/master/0383-ransom-note) |
