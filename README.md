@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ankur9369/leetcode_approches/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Ankur9369/leetcode_approches/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Ankur9369/leetcode_approches/tree/master/0402-remove-k-digits) |
+| [1189-maximum-number-of-balloons](https://github.com/Ankur9369/leetcode_approches/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Ankur9369/leetcode_approches/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankur9369/leetcode_approches/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Ankur9369/leetcode_approches/tree/master/0496-next-greater-element-i) |
+| [1189-maximum-number-of-balloons](https://github.com/Ankur9369/leetcode_approches/tree/master/1189-maximum-number-of-balloons) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Ankur9369/leetcode_approches/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankur9369/leetcode_approches/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Ankur9369/leetcode_approches/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
