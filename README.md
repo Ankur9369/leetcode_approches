@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankur9369/leetcode_approches/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Ankur9369/leetcode_approches/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankur9369/leetcode_approches/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Ankur9369/leetcode_approches/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Ankur9369/leetcode_approches/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ankur9369/leetcode_approches/tree/master/0739-daily-temperatures) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankur9369/leetcode_approches/tree/master/3875-construct-uniform-parity-array-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ankur9369/leetcode_approches/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankur9369/leetcode_approches/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ankur9369/leetcode_approches/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Ankur9369/leetcode_approches/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ankur9369/leetcode_approches/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankur9369/leetcode_approches/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Ankur9369/leetcode_approches/tree/master/0496-next-greater-element-i) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ankur9369/leetcode_approches/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ankur9369/leetcode_approches/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankur9369/leetcode_approches/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ankur9369/leetcode_approches/tree/master/1189-maximum-number-of-balloons) |
@@ -101,8 +104,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ankur9369/leetcode_approches/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Ankur9369/leetcode_approches/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ankur9369/leetcode_approches/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Ankur9369/leetcode_approches/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ankur9369/leetcode_approches/tree/master/0219-contains-duplicate-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ankur9369/leetcode_approches/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ankur9369/leetcode_approches/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ankur9369/leetcode_approches/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ankur9369/leetcode_approches/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
