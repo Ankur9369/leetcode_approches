@@ -4,8 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
-        # this question is  if you uese the  normal  sort fun but it is  prohbtes for this  quuestion  so  simple  use the  or make the  sort func simpliy 
-        # choice the  three pointer  rule :
+        # IN this  quesion you  can  use the normal  sort fun to do solve  but  there is majrable edge  case that  you are  prohbited  to use it :
+        # so that   if you    solve  by  using  any  sorting technique it also not  accepted because 
+        #  any kinda sorting technique is not  optimal for this  problem 
+        #  hence  here we are using  three pointing method  , we divind the nums into the three segmented area where  we are puting the  o,1,2  as low mid and high :
+        # this  techniuqe  is also   known as  dutch  natioanl flag :
+        
         
         low =0
         mid=0
